@@ -1,0 +1,16 @@
+[
+  {
+    "ResourceType": "AWS::S3::Bucket",
+    "LogicalResourceId": "myS3Bucket",
+    "ResourceIdentifier": {
+      "BucketName": "change-bucket-name-838135940574"
+    }
+  },
+  {
+    "ResourceType": "AWS::S3::Bucket",
+    "LogicalResourceId": "cloudFormationBucket",
+    "ResourceIdentifier": {
+      "BucketName": "cf-templates-6wzb6714ayxy-ap-northeast-1"
+    }
+  }
+]
