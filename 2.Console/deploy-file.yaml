@@ -1,1 +1,3 @@
-template-file-path: s3.yaml
+template-file-path: 2.Console/s3.yaml
+parameters: {}
+tags: {}
